@@ -1,0 +1,37 @@
+
+h1{
+    font-size: 100px;
+    margin-left: 80px;
+}
+p{
+    font-size: 50px;
+    margin-left: 80px;
+
+}
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+}
+/* Navigation bar */
+nav{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgreen;
+}
+nav ul li {
+    border: 1px solid green;
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+}
+
+/* Images */
+img{
+    margin-left: 80px;
+    height: 300px;
+    width: 450px;
+}
